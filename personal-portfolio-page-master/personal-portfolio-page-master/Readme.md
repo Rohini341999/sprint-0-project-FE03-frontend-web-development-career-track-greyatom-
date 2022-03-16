@@ -1,5 +1,5 @@
 ### Created by -: Rohini Narayan Koli
-### Start time -: 25th February 2020
+### Start date -: 25th February 2020
 ### Project name -: Personal Portfolio Page
 ### Languages used -: HTML,CSS
 
